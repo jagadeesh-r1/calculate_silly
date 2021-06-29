@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='useless_calc',
-    url='https://github.com/jagadeeshEunimart/calculate_silly',
+    url='https://github.com/jagadeesh-r1/calculate_silly',
     author='Jagadeesh Reddy',
     author_email='mail4jagadeeshreddy@gmail.com',
     packages=['Calculate'],
